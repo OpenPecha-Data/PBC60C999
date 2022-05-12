@@ -1,0 +1,141 @@
+form	lemma	POS	morph
+༄༅།		PUNCT
+		
+།		PUNCT
+བླ་	བླ་	NOUN
+སྒྲུབ་	སྒྲུབ་	VERB
+ཡེ་ཤེས་	ཡེ་ཤེས་	NOUN
+དྲྭ་བ་	དྲྭ་བ་	NON_WORD
+བཞུགས་	བཞུགས་	VERB
+།		PUNCT
+ཨཱཿ་		NON_WORD
+ངོ་བོ་	ངོ་བོ་	NOUN
+ཀ་དག་	ཀ་དག་	OTHER
+ཆོ་	ཆོ་	NOUN
+ཀྱི་	གི་	PART
+སྐུ་	སྐུ་	NOUN
+།		PUNCT
+		
+།		PUNCT
+རང་བཞིན་	རང་བཞིན་	NOUN
+ལྷུན་གྲུབ་	ལྷུན་གྲུབ་	OTHER
+ལོངས་སྤྱོད་	ལོངས་སྤྱོད་	NOUN
+རྫོགས་	རྫོགས་	VERB
+།		PUNCT
+		
+།		PUNCT
+ཐུགས་རྗེ་	ཐུགས་རྗེ་	NOUN
+རང་	རང་	PRON
+ཤ་	ཤ་	VERB
+སྤྲུལ་པ་	སྤྲུལ་པ་	VERB
+འི་	གི་	PART
+སྐུ་	སྐུ་	NOUN
+།		PUNCT
+		
+།		PUNCT
+སྐུ་གསུམ་	སྐུ་གསུམ་	OTHER
+ཡེ་རྫོགས་	ཡེ་རྫོགས་	NO_POS
+རང་རིག་	རང་རིག་	NO_POS
+འདི་	འདི་	DET
+།		PUNCT
+		
+།		PUNCT
+རང་བྱུང་	རང་བྱུང་	NOUN
+དོན་	དོན་	NOUN
+གྱི་	གི་	PART
+པདྨ་	པདྨ་	NOUN
+འབྱུང་	འབྱུང་	VERB
+།		PUNCT
+		
+།		PUNCT
+གདོད་	གདོད་	NO_POS
+ན་	ནས་	PART
+རང་	རང་	PRON
+དང་	དང་	NO_POS
+འདུ་	འདུ་	VERB
+བྲལ་	བྲལ་	VERB
+མེད་	མེད་	VERB
+།		PUNCT
+		
+།		PUNCT
+སྣང་གྲག་	སྣང་གྲག་	PROPN
+ཆོས་ཉིད་	ཆོས་ཉིད་	NOUN
+ཡེ་ཤེས་	ཡེ་ཤེས་	NOUN
+རྩལ་	རྩལ་	NOUN
+།		PUNCT
+		
+།		PUNCT
+འཁོར་འདས་	འཁོར་འདས་	NOUN
+མཚན་མ་	མཚན་མ་	NOUN
+རང་ས་	རང་ས་	OTHER
+ར་	ལ་	PART
+གྲོལ་	གྲོལ་	VERB
+།		PUNCT
+		
+།		PUNCT
+འོད་གསལ་	འོད་གསལ་	NOUN
+རང་བྱུང་	རང་བྱུང་	NOUN
+གཉུག་	གཉུག་	NO_POS
+མ་	མ་	PART
+འི་	གི་	PART
+གཤིས་	གཤིས་	OTHER
+།		PUNCT
+		
+།		PUNCT
+སྤངས་	སྤངས་	VERB
+ལེན་	ལེན་	VERB
+བྱ་རྩོལ་	བྱ་རྩོལ་	NOUN
+བྲལ་བ་	བྲལ་བ་	VERB
+འི་	གི་	PART
+སྦུབས་	སྦུབས་	NOUN
+།		PUNCT
+		
+།		PUNCT
+མ་	མ་	PART
+བཙལ་	བཙལ་	NO_POS
+ཡེ་རྫོགས་	ཡེ་རྫོགས་	NO_POS
+འགྲོ་དོན་	འགྲོ་དོན་	NOUN
+གྲུབ་	གྲུབ་	VERB
+།		PUNCT
+		
+།		PUNCT
+རང་བྱུང་	རང་བྱུང་	NOUN
+རིག་པ་	རིག་པ་	VERB
+ཨེ་མ་ཧོ་	ཨེ་མ་ཧོ་	INTJ
+།		PUNCT
+		
+།		PUNCT
+ཨོཾ་	ཨོཾ་	X
+ཨཱཿ་		NON_WORD
+ཧཱུྃ་		NON_WORD
+བཛྲ་	བཛྲ་	NO_POS
+གུ་རུ་	གུ་རུ་	PROPN
+པདྨ་	པདྨ་	NOUN
+སིདྡྷི་		NON_WORD
+ཧཱུྃ་		NON_WORD
+།		PUNCT
+ཞེས་་	ཞེས་པ་	PART
+འང་	ཀྱང་	PART
+ལྕགས་	ལྕགས་	NOUN
+གླང་	གླང་	NOUN
+ས་ག་	ས་ག་	NOUN
+ས་	གིས་	PART
+ཉ་བ་	ཉ་བ་	VERB
+འི་	གི་	PART
+ཡར་ཚེས་	ཡར་ཚེས་	NO_POS
+		
+		
+		
+ལ་	ལ་	PART
+ཤེས་རབ་	ཤེས་རབ་	NOUN
+རྒྱ་མཚོ་	རྒྱ་མཚོ་	NOUN
+ས་	གིས་	PART
+ཐོལ་	ཐོལ་	ADV
+བྱུང་	བྱུང་	VERB
+དུ་	ལ་	PART
+བྲིས་པ་	བྲིས་པ་	VERB
+འི་	གི་	PART
+རི་	རི་	NOUN
+མོ་	མོ་	PRON
+འོ་	གོ་	PART
+།།		PUNCT
